@@ -1,0 +1,5 @@
+﻿  Board.cpp
+C:\Users\mahmo\Desktop\Exc_1_oop\MonopolyGame\Board.cpp(12,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\MonopolyGame\Board.cpp(96,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\mahmo\Desktop\Exc_1_oop\MonopolyGame\Board.cpp(103,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MonopolyGame.vcxproj -> C:\Users\mahmo\Desktop\Exc_1_oop\MonopolyGame\x64\Debug\MonopolyGame.exe
